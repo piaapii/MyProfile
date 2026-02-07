@@ -1,4 +1,7 @@
 <h1 align="center">ge</h1>
+<div align = "center">
+<img src= "https://media.tenor.com/KO80NCIjQAUAAAAM/cat-smiling-cat.gif"/>
+<div/>
 
 ### Hi there 👋
 * 👂 My name is Sophia!
@@ -12,9 +15,6 @@
 * ❤️ I love concerts and movies
 * ⚡ Fun fact: yes
 
-<div align = "center">
-<img src= "https://media.tenor.com/KO80NCIjQAUAAAAM/cat-smiling-cat.gif"/>
-<div/>
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31necgh3oyjdil6ggxr65cw44ypa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
