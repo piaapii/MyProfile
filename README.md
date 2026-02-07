@@ -11,8 +11,8 @@
 * ⚡ Fun fact: yes
 
 
-<img src="<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/6e370ece-d70f-409f-a145-259ac55a85cc" />
+<img src="<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a72cdf98-9543-44e1-acfd-632a8d0981fd" />
 " />
-"/>
+
 
 
