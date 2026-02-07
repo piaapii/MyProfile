@@ -12,7 +12,8 @@
 * ⚡ Fun fact: yes
 
 
-<img src="<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a72cdf98-9543-44e1-acfd-632a8d0981fd" />
+<img src="<img width="165" height="165" alt="image" src="https://github.com/user-attachments/assets/0f6d60fc-73b1-4bf7-82e9-6da3de0d4685" />
+ />
 " />
 
 
