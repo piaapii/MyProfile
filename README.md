@@ -2,8 +2,8 @@
   <img align="center" src="https://media.tenor.com/KO80NCIjQAUAAAAM/cat-smiling-cat.gif"/>
 </div>
 
-
-<h1 align="center">Sophiii</h1>
+<div>
+  <h1 align="center">Sophiii</h1>
 
 
 ### Hi there 👋
@@ -17,6 +17,8 @@
 * 📫 How to reach me: you can't
 * ❤️ I love concerts and movies
 * ⚡ Fun fact: yes
+</div>
+
 
 
 
