@@ -11,7 +11,8 @@
 * ⚡ Fun fact: yes
 
 
-<img src="<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/b9eb86fa-d8b4-410f-8208-fd9663995b92" />
+<img src="<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/6e370ece-d70f-409f-a145-259ac55a85cc" />
+" />
 "/>
 
-![Snake animation](https://github.com/piaapii/piaapii/blob/output/github-contribution-grid-snake.svg)
+
