@@ -12,7 +12,7 @@
 * ⚡ Fun fact: yes
 
 <div align = "center">
-<img src= "/<img width="226" height="223" alt="image" src="https://github.com/user-attachments/assets/0666c96e-7fdf-4732-9feb-f4e79ddda343" />
+<img src= "https://media.tenor.com/KO80NCIjQAUAAAAM/cat-smiling-cat.gif"/>
 <div/>
 
 
