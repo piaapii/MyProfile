@@ -1,5 +1,7 @@
+<div align="center">
+  <img align="center" src="https://media.tenor.com/KO80NCIjQAUAAAAM/cat-smiling-cat.gif"/>
+</div>
 
-<img align="center" src="https://media.tenor.com/KO80NCIjQAUAAAAM/cat-smiling-cat.gif"/>
 
 <h1 align="center">Sophiii</h1>
 
