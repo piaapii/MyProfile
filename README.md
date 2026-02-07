@@ -1,4 +1,4 @@
-
+<h1 align="center">ge</h1>
 ### Hi there 👋
 * 👂 My name is Sophia!
 * 👩 Pronouns: She/her
