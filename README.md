@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" src="https://media.tenor.com/KO80NCIjQAUAAAAM/cat-smiling-cat.gif"/>
+  <img align="center" src="[https://media.tenor.com/KO80NCIjQAUAAAAM/cat-smiling-cat.gif](https://media.tenor.com/cWGkHSAZOhsAAAAe/meow-header-paws.png)"/>
 </div>
 
 <div>
